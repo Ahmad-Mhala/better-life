@@ -4,6 +4,7 @@ Better life is an Android application which allows people to donate and receive 
 -for receiver ![image](https://user-images.githubusercontent.com/96696339/207243221-4ae2fa99-f022-4612-8b21-f08fc60511bf.png)
 So other users are able to see the donations and donation requests in the map. So users can contact with each other by provided phone number.
 
+![image](https://user-images.githubusercontent.com/96696339/207244337-342d6aee-1cf9-4e19-ad0d-bbda19c4eafd.png)
 
 Used technology:
  -Android studio
