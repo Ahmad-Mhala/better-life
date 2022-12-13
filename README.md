@@ -6,10 +6,10 @@ So other users are able to see the donations and donation requests in the map. S
 
 
 Used technology:
- -Android studio ![image](https://user-images.githubusercontent.com/96696339/207243293-4a96bcaa-4c34-419e-b668-e91b9a8989dc.png)
- -Java programing language ![image](https://user-images.githubusercontent.com/96696339/207243317-21b8f967-0ad0-4d33-988b-1e36859d8814.png)
- -XML ![image](https://user-images.githubusercontent.com/96696339/207243374-a5edf6c0-ffee-4553-94e1-d91ba2e6e9dc.png)
- -Firebase: ![image](https://user-images.githubusercontent.com/96696339/207243393-bf338a59-c2bb-46ad-8d9f-cb7ef5871f2b.png)
+ -Android studio
+ -Java programing language
+ -XML
+ -Firebase: 
      .Authentication(sign in method)
      .Firestore database(NoSQL database)
 
