@@ -23,5 +23,7 @@ We have four collections, each collection has documents , each documents has fie
 3-Users: it contains user registrations details email , name ,password and phone number
 4-Admin: It contains admin details DOB , Email, Phone number , name , password
 
+# video explains how does it work:
+https://www.youtube.com/shorts/gV1zybCICW8
 
 
